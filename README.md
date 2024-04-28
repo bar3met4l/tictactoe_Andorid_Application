@@ -1,1 +1,6 @@
 # tictactoe__
+
+Tic Tac Toe is a classic two-player game that has been enjoyed by people of all ages for generations. The game is played on a 3x3 grid, where two players take turns marking spaces with their respective symbols, either 'X' or 'O'. The objective of the game is to be the first player to get three of their symbols in a row, either horizontally, vertically, or diagonally.
+In this project, we have created a simple Tic Tac Toe game for Android using Kotlin and the Android SDK. The game features a 3x3 grid layout and buttons for each cell, with the game board implemented in a fragment within the main activity. The MainActivity class initializes the board, sets up the buttons, and handles button clicks, while the TicTacToeFragment class manages the game logic and updates the board and button text when a button is clicked. The checkWinner helps us determine the winner.
+The purpose of this project is to demonstrate our understanding of Android development using Kotlin and to create a simple and fun game that can be enjoyed by users of all ages. 
+The technologies used in this project include Android Studio, Kotlin, and the Android SDK. The expected outcomes of this project are a functional Tic Tac Toe game for Android that can be played by two players.
