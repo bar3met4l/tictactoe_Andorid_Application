@@ -8,133 +8,77 @@
     tools:context=".tictactoefragment">
 
     <TableRow
-
         android:layout_width="match_parent"
-
         android:layout_height="match_parent"
-
         android:gravity="center">
 
     <Button
-
         android:id="@+id/button1"
-
         android:layout_width="100dp"
-
         android:layout_height="100dp"
-
         android:background="@drawable/sharp_edge"
-
-
         android:layout_margin="2dp"
-
         android:textAlignment="center"
-
         android:onClick="buttonClick"
-
         android:textSize="40sp"
-
         tools:ignore="ButtonStyle"
-
         />
 
     <Button
-
         android:id="@+id/button2"
-
         android:layout_width="100dp"
-
         android:layout_height="100dp"
-
         android:background="@drawable/sharp_edge"
-
         android:layout_margin="2dp"
-
         android:textAlignment="center"
-
         android:onClick="buttonClick"
-
         android:textSize="40sp"
-
         tools:ignore="ButtonStyle"
-
         />
 
     <Button
-
         android:id="@+id/button3"
-
         android:layout_width="100dp"
-
         android:background="@drawable/sharp_edge"
-
         android:layout_height="100dp"
-
         android:layout_margin="2dp"
-
         android:textAlignment="center"
-
         android:onClick="buttonClick"
-
         android:textSize="40sp"
-
         tools:ignore="ButtonStyle"
-
         />
 
 
 </TableRow>
 
-
 <TableRow
 
 android:layout_width="match_parent"
-
 android:layout_height="match_parent"
-
 android:gravity="center">
-
-
 <Button
 
     android:id="@+id/button4"
-
     android:layout_width="100dp"
-
     android:background="@drawable/sharp_edge"
-
     android:layout_height="100dp"
-
     android:layout_margin="2dp"
-
     android:textAlignment="center"
-
     android:onClick="buttonClick"
-
     android:textSize="40sp"
-
     tools:ignore="ButtonStyle"
-
     />
 
 <Button
 
     android:id="@+id/button5"
-
     android:layout_width="100dp"
-
     android:background="@drawable/sharp_edge"
-
     android:layout_height="100dp"
-
     android:layout_margin="2dp"
-
     android:textAlignment="center"
-
     android:onClick="buttonClick"
-
     android:textSize="40sp"
-
     tools:ignore="ButtonStyle"
 
     />
@@ -142,23 +86,14 @@ android:gravity="center">
 <Button
 
     android:id="@+id/button6"
-
     android:layout_width="100dp"
-
     android:layout_height="100dp"
-
     android:background="@drawable/sharp_edge"
-
     android:layout_margin="2dp"
-
     android:textAlignment="center"
-
     android:onClick="buttonClick"
-
     android:textSize="40sp"
-
     tools:ignore="ButtonStyle"
-
     />
 
 
@@ -168,82 +103,47 @@ android:gravity="center">
 <TableRow
 
 android:layout_width="match_parent"
-
 android:layout_height="match_parent"
-
 android:gravity="center">
-
-
 <Button
 
     android:id="@+id/button7"
-
     android:layout_width="100dp"
-
     android:layout_height="100dp"
-
     android:layout_margin="2dp"
-
     android:background="@drawable/sharp_edge"
-
     android:textAlignment="center"
-
     android:onClick="buttonClick"
-
     android:textSize="40sp"
-
     tools:ignore="ButtonStyle"
-
     />
 
 <Button
-
     android:id="@+id/button8"
-
     android:layout_width="100dp"
-
     android:layout_height="100dp"
-
     android:layout_margin="2dp"
-
     android:textAlignment="center"
-
     android:onClick="buttonClick"
-
     android:background="@drawable/sharp_edge"
-
     android:textSize="40sp"
-
     tools:ignore="ButtonStyle"
-
     />
 
 <Button
 
     android:id="@+id/button9"
-
     android:layout_width="100dp"
-
     android:layout_height="100dp"
-
     android:layout_margin="2dp"
-
     android:textAlignment="center"
-
     android:onClick="buttonClick"
-
     android:textSize="40sp"
-
     android:background="@drawable/sharp_edge"
-
     tools:ignore="ButtonStyle"
-
     />
 
 
 </TableRow>
-
-
-
 
     </TableLayout>
